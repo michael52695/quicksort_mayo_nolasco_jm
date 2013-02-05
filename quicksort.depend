@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1359678602 source:c:\users\able valued client\desktop\quicksort\main.cpp
+	<iostream>
+	<string>
+	<sstream>
+	<fstream>
+
+1359678604 source:c:\users\daniel\desktop\quicksort (mayo, nolasco)\main.cpp
+	<iostream>
+	<string>
+	<sstream>
+	<fstream>
+
